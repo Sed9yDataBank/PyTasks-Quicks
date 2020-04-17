@@ -1,0 +1,2 @@
+# PyTasks-Quicks
+Since It's Quarnatine And I Have No Big Projects Rights Now, This Repository Will Be Holding All My Usual Tasks Semplifiercs Scripts That Can Take Time Out Of My Day When Working, It Will Be A Fun Cool Experience To Code In Order To Solve My Own Problems ! The Scripts Are Going To Be Set To Be In Or Out, Each Script Will Be Pushed To The Repo Each Day And It Only Got One Chance Of Commit ! There Is No Editing, Either It Works Or Not
